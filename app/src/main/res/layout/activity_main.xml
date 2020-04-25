@@ -49,7 +49,7 @@
         android:orientation="horizontal">
 
         <RadioButton
-            android:id="@+id/radioButton"
+            android:id="@+id/rbNam"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:checked="true"
@@ -57,7 +57,7 @@
             android:text="Nam" />
 
         <RadioButton
-            android:id="@+id/radioButton2"
+            android:id="@+id/rbNu"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
